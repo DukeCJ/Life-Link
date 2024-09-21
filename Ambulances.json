@@ -1,0 +1,203 @@
+{
+    "ambulances": [
+        {
+            "id": 1,
+            "name": "Ambulance A",
+            "type": "ICU",
+            "cost": 120,
+            "region": "Chicago",
+            "specialization": "A/C, ICU",
+            "image": "https://i.imgur.com/ErZojCS.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Ambulance B",
+            "type": "Non-ICU",
+            "cost": 100,
+            "region": "New York",
+            "specialization": "Non-A/C, Non-ICU",
+            "image": "https://i.imgur.com/EEtc7Tf.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Ambulance C",
+            "type": "ICCU",
+            "cost": 150,
+            "region": "Los Angeles",
+            "specialization": "A/C, ICCU",
+            "image": "https://i.imgur.com/9YnMbzt.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Ambulance D",
+            "type": "ICCU",
+            "cost": 150,
+            "region": "Los Angeles",
+            "specialization": "A/C, ICCU",
+            "image": "https://i.imgur.com/5j52KyZ.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Ambulance E",
+            "type": "ICU",
+            "cost": 120,
+            "region": "Houston",
+            "specialization": "A/C, ICU",
+            "image": "https://i.imgur.com/lkGRXCM.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Ambulance F",
+            "type": "Non-ICU",
+            "cost": 100,
+            "region": "San Francisco",
+            "specialization": "Non-A/C, Non-ICU",
+            "image": "https://i.imgur.com/j5KdQ8c.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Ambulance G",
+            "type": "ICCU",
+            "cost": 400,
+            "region": "Chicago",
+            "specialization": "A/C, ICCU",
+            "image": "https://i.imgur.com/cxNBboX.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Ambulance H",
+            "type": "ICU",
+            "cost": 120,
+            "region": "New York",
+            "specialization": "A/C, ICU",
+            "image": "https://i.imgur.com/D3Ofyp0.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Ambulance I",
+            "type": "Non-ICU",
+            "cost": 100,
+            "region": "Los Angeles",
+            "specialization": "Non-A/C, Non-ICU",
+            "image": "https://i.imgur.com/yiW9kPn.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "Ambulance J",
+            "type": "ICCU",
+            "cost": 150,
+            "region": "Houston",
+            "specialization": "A/C, ICCU",
+            "image": "https://i.imgur.com/QjHOm3p.jpeg"
+        },
+        {
+            "id": 11,
+            "name": "Ambulance K",
+            "type": "ICU",
+            "cost": 120,
+            "region": "San Francisco",
+            "specialization": "A/C, ICU",
+            "image": "https://i.imgur.com/yiW9kPn.jpeg"
+        },
+        {
+            "id": 12,
+            "name": "Ambulance L",
+            "type": "Non-ICU",
+            "cost": 100,
+            "region": "Chicago",
+            "specialization": "Non-A/C, Non-ICU",
+            "image": "https://i.imgur.com/yAzzAAA.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "Ambulance M",
+            "type": "ICCU",
+            "cost": 150,
+            "region": "New York",
+            "specialization": "A/C, ICCU",
+            "image": "https://i.imgur.com/kx3I8qm.jpeg"
+        },
+        {
+            "id": 14,
+            "name": "Ambulance N",
+            "type": "ICU",
+            "cost": 120,
+            "region": "Los Angeles",
+            "specialization": "A/C, ICU",
+            "image": "https://i.imgur.com/sZjA6tW.jpeg"
+        },
+        {
+            "id": 15,
+            "name": "Ambulance O",
+            "type": "Non-ICU",
+            "cost": 100,
+            "region": "Houston",
+            "specialization": "Non-A/C, Non-ICU",
+            "image": "https://i.imgur.com/SnVwJqe.jpeg"
+        },
+        {
+            "id": 16,
+            "name": "Ambulance P",
+            "type": "ICCU",
+            "cost": 150,
+            "region": "San Francisco",
+            "specialization": "A/C, ICCU",
+            "image": "https://i.imgur.com/MQFCIkF.jpeg"
+        },
+        {
+            "id": 17,
+            "name": "Ambulance Q",
+            "type": "ICU",
+            "cost": 120,
+            "region": "Chicago",
+            "specialization": "A/C, ICU",
+            "image": "https://i.imgur.com/LnqdVLM.jpeg"
+        },
+        {
+            "id": 18,
+            "name": "Ambulance R",
+            "type": "Non-ICU",
+            "cost": 100,
+            "region": "New York",
+            "specialization": "Non-A/C, Non-ICU",
+            "image": "https://i.imgur.com/GCpWAkt.jpeg"
+        },
+        {
+            "id": 19,
+            "name": "Ambulance S",
+            "type": "ICCU",
+            "cost": 150,
+            "region": "Los Angeles",
+            "specialization": "A/C, ICCU",
+            "image": "https://i.imgur.com/PA0Eqoq.jpeg"
+        },
+        {
+            "id": 20,
+            "name": "Ambulance T",
+            "type": "ICU",
+            "cost": 120,
+            "region": "Houston",
+            "specialization": "A/C, ICU",
+            "image": "https://i.imgur.com/y8a4AXM.jpeg"
+        }
+    ],
+    "regions": [
+        "Chicago",
+        "New York",
+        "Los Angeles",
+        "San Francisco",
+        "Houston"
+    ],
+    "types": [
+        "ICU",
+        "Non-ICU",
+        "ICCU"
+    ],
+    "specializations": [
+        "A/C",
+        "Non-A/C",
+        "ICU",
+        "Non-ICU",
+        "ICCU"
+    ]
+}
